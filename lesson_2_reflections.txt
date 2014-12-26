@@ -4,3 +4,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 use 'git diff --staged' to compare the staging area and the repostory before commiting
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When some testing branches other than the master branch are needed. Branches help to maintain those branches.
