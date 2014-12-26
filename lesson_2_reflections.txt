@@ -1,1 +1,6 @@
 Lesson 2 Reflections
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+use 'git diff --staged' to compare the staging area and the repostory before commiting
+
