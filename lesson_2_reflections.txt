@@ -1,9 +1,15 @@
 Lesson 2 Reflections
 
-How can you use the staging area to make sure you have one commit per logical change?
+1. How can you use the staging area to make sure you have one commit per logical change?
 
 use 'git diff --staged' to compare the staging area and the repostory before commiting
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+2. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When some testing branches other than the master branch are needed. Branches help to maintain those branches.
+
+3. How do the diagrams help you visualize the branch structure?
+
+Graph helps to visualize which commits are reachable and which are not.
+
+
