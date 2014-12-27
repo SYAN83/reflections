@@ -6,3 +6,6 @@ dunno...
 
 not always need to push every commit to remote repo.
 
+3. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+can work independently from that commit without being affected by other contributers
