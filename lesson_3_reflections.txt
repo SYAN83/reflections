@@ -9,3 +9,9 @@ not always need to push every commit to remote repo.
 3. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 can work independently from that commit without being affected by other contributers
+
+4. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+make a new branch, update the file, push the branch to github and use pull request
+
+
